@@ -1,1 +1,1 @@
-# learn-python3
+Exercise #3 wil introduce basic math concepts and how they are used in Python. I will use addition, subtraction, multiplication, division, percentages, and greater/less/eqaul symbols to count hypothetical chickens
