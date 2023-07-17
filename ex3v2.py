@@ -1,1 +1,5 @@
-print(4*650)
+print("Lets work on your budget!")
+print("How much money do you make on a weekly basis?")
+print("I make $650/per week")
+print("Ok, that is", 4*650 , "per month")
+print("Lets see how many hours you need to work to make $650 in one week")
