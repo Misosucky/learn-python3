@@ -12,4 +12,4 @@ print (700 + 100 + 150 + 275 + 600 + 30 + 50)
 print("woah")
 print("That leaves you with" , 21.60 * 40 - 700 + 100 + 150 + 275 + 600 + 30 + 500 , "a month" )
 print ("or" , 21.60 * 40 *52 - 700 + 100 + 150 + 275 + 600 + 30 + 500 * 12 , "per year")
-print("lets be sure" , 1819 * 12)
+print("lets be sure" , 1819 * 12) #something is off with line 14
