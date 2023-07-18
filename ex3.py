@@ -1,4 +1,3 @@
-int(float())
 print("I will now count my chickens:")
 # : in print function is stritcly a text
 print("Hens", 25 + 30 / 6) # is n + (30/6)
