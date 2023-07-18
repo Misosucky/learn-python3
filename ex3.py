@@ -1,12 +1,11 @@
 print("I will now count my chickens:")
-float()
 # : in print function is stritcly a text
-print("Hens", 25 + 30 / 6) # is n + (30/6)
-print("Roosters" , 100 - 25 * 3 % 4 ) # % is not percent it is a modulus; X/X R
+print("Hens", float (25 + 30 / 6)) # is n + (30/6)
+print("Roosters" , float (100 - 25 * 3 % 4 )) # % is not percent it is a modulus; X/X R
 
 print("Now I will count my eggs:")
 
-print (3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6) # Do not understand Modulus yet, so am unable to calculate ny hand
+print ( float (3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)) # Do not understand Modulus yet, so am unable to calculate ny hand
 
 print("Is it true that 3 + 2 < 5 - 7?") # this appears to add a T/F output based on the follwoing line
 
