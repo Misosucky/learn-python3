@@ -1,4 +1,5 @@
 print("I will now count my chickens:")
+float()
 # : in print function is stritcly a text
 print("Hens", 25 + 30 / 6) # is n + (30/6)
 print("Roosters" , 100 - 25 * 3 % 4 ) # % is not percent it is a modulus; X/X R
